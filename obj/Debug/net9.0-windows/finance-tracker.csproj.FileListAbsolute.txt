@@ -1,0 +1,15 @@
+C:\Users\chaen\Documents\git_chaeng_ploypaphat_s\c_sharp\p1\finance-tracker\bin\Debug\net9.0-windows\finance-tracker.exe
+C:\Users\chaen\Documents\git_chaeng_ploypaphat_s\c_sharp\p1\finance-tracker\bin\Debug\net9.0-windows\finance-tracker.deps.json
+C:\Users\chaen\Documents\git_chaeng_ploypaphat_s\c_sharp\p1\finance-tracker\bin\Debug\net9.0-windows\finance-tracker.runtimeconfig.json
+C:\Users\chaen\Documents\git_chaeng_ploypaphat_s\c_sharp\p1\finance-tracker\bin\Debug\net9.0-windows\finance-tracker.dll
+C:\Users\chaen\Documents\git_chaeng_ploypaphat_s\c_sharp\p1\finance-tracker\bin\Debug\net9.0-windows\finance-tracker.pdb
+C:\Users\chaen\Documents\git_chaeng_ploypaphat_s\c_sharp\p1\finance-tracker\obj\Debug\net9.0-windows\finance-tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaen\Documents\git_chaeng_ploypaphat_s\c_sharp\p1\finance-tracker\obj\Debug\net9.0-windows\finance-tracker.AssemblyInfoInputs.cache
+C:\Users\chaen\Documents\git_chaeng_ploypaphat_s\c_sharp\p1\finance-tracker\obj\Debug\net9.0-windows\finance-tracker.AssemblyInfo.cs
+C:\Users\chaen\Documents\git_chaeng_ploypaphat_s\c_sharp\p1\finance-tracker\obj\Debug\net9.0-windows\finance-tracker.csproj.CoreCompileInputs.cache
+C:\Users\chaen\Documents\git_chaeng_ploypaphat_s\c_sharp\p1\finance-tracker\obj\Debug\net9.0-windows\finance-tracker.sourcelink.json
+C:\Users\chaen\Documents\git_chaeng_ploypaphat_s\c_sharp\p1\finance-tracker\obj\Debug\net9.0-windows\finance-tracker.dll
+C:\Users\chaen\Documents\git_chaeng_ploypaphat_s\c_sharp\p1\finance-tracker\obj\Debug\net9.0-windows\refint\finance-tracker.dll
+C:\Users\chaen\Documents\git_chaeng_ploypaphat_s\c_sharp\p1\finance-tracker\obj\Debug\net9.0-windows\finance-tracker.pdb
+C:\Users\chaen\Documents\git_chaeng_ploypaphat_s\c_sharp\p1\finance-tracker\obj\Debug\net9.0-windows\finance-tracker.genruntimeconfig.cache
+C:\Users\chaen\Documents\git_chaeng_ploypaphat_s\c_sharp\p1\finance-tracker\obj\Debug\net9.0-windows\ref\finance-tracker.dll
