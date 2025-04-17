@@ -1,6 +1,6 @@
 # Personal Finance Tracker (Desktop App)
 
-🪟 A Windows Forms or WPF-based desktop application where users can:
+🪟 A Windows Forms application where users can:
 - Add income and expenses
 - Categorize transactions (e.g., Food, Rent, Travel)
 - View summary charts (monthly/yearly)
