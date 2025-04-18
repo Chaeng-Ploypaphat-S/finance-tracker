@@ -1,0 +1,4 @@
+Housing
+Transportation
+Groceries
+Utilities
